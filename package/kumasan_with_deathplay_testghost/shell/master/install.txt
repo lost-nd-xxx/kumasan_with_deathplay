@@ -1,5 +1,5 @@
 charset,UTF-8
-type,ghost
+type,shell
 name,くまさん・うぃず・ですぷれ
 directory,kumasan_with_deathplay
 

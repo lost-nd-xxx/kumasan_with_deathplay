@@ -21,7 +21,7 @@
 * [シェル単体](https://github.com/lost-nd-xxx/kumasan_with_deathplay/releases/latest/download/kumasan_with_deathplay.zip)
 * [専用バルーン(明)単体](https://github.com/lost-nd-xxx/kumasan_with_deathplay/releases/latest/download/deathplay_for_kumasan_light.zip)
 * [専用バルーン(暗)単体](https://github.com/lost-nd-xxx/kumasan_with_deathplay/releases/latest/download/deathplay_for_kumasan_dark.zip)
-* [シェルのpsd](material/shell.psd)
+* [シェルのpsd](https://github.com/lost-nd-xxx/kumasan_with_deathplay/raw/main/material/shell.psd)
   * [PsdTool](https://oov.github.io/psdtool/)対応のファイルです。画像編集ソフトでも開けます。
 
 ## 連絡先

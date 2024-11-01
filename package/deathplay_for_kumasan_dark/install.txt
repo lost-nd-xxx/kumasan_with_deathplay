@@ -1,0 +1,6 @@
+charset,UTF-8
+type,balloon
+name,ですぷれ・ふぉー・くまさん・だーく
+directory,deathplay_for_kumasan_dark
+
+

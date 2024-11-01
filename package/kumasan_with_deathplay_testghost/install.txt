@@ -1,0 +1,7 @@
+charset,UTF-8
+type,ghost
+name,くまさん・うぃず・ですぷれ デモゴースト
+directory,kumasan_with_deathplay_testghost
+robots,noindex
+
+

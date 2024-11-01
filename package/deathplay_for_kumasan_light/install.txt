@@ -1,0 +1,6 @@
+charset,UTF-8
+type,balloon
+name,ですぷれ・ふぉー・くまさん・らいと
+directory,deathplay_for_kumasan_light
+
+

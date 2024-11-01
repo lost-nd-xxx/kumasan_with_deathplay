@@ -1,0 +1,67 @@
+charset,UTF-8
+type,shell
+name,くまさん・うぃず・ですぷれ
+
+craftman,lost_nd_xxx
+craftmanw,ろすえん
+craftmanurl,https://lnx.flop.jp/
+
+seriko.use_self_alpha,1
+
+seriko.alignmenttodesktop,free
+
+sakura.balloon.offsetx,500
+sakura.balloon.offsety,260
+sakura.balloon.alignment,left
+sakura.balloon.dontmove,1
+
+kero.balloon.offsetx,0
+kero.balloon.offsety,-330
+
+// ---------------- 着せ替え不要の場合、ここから下を削除 ----------------
+
+// 着せ替え要素定義
+sakura.bindgroup100.name,ですぷれ,白
+sakura.bindgroup101.name,ですぷれ,黒
+sakura.bindgroup200.name,くまさん,白
+sakura.bindgroup201.name,くまさん,黒
+sakura.bindgroup202.name,くまさん,赤
+sakura.bindgroup203.name,くまさん,桃
+sakura.bindgroup204.name,くまさん,赤紫
+sakura.bindgroup205.name,くまさん,青紫
+sakura.bindgroup206.name,くまさん,藍
+sakura.bindgroup207.name,くまさん,青
+sakura.bindgroup208.name,くまさん,水
+sakura.bindgroup209.name,くまさん,シアン
+sakura.bindgroup210.name,くまさん,青緑
+sakura.bindgroup211.name,くまさん,緑
+sakura.bindgroup212.name,くまさん,濃橙
+sakura.bindgroup213.name,くまさん,茶
+sakura.bindgroup214.name,くまさん,青灰
+sakura.bindgroup215.name,くまさん,黄緑
+sakura.bindgroup216.name,くまさん,ライム
+sakura.bindgroup217.name,くまさん,黄
+sakura.bindgroup218.name,くまさん,琥珀
+sakura.bindgroup219.name,くまさん,橙
+sakura.bindgroup220.name,くまさん,灰
+sakura.bindgroup300.name,模様,無地(明)
+sakura.bindgroup301.name,模様,ギンガム(明)
+sakura.bindgroup302.name,模様,千鳥格子(明)
+sakura.bindgroup350.name,模様,無地(暗)
+sakura.bindgroup351.name,模様,ギンガム(暗)
+sakura.bindgroup352.name,模様,千鳥格子(暗)
+
+// デフォルト表示
+sakura.bindgroup100.default,1
+sakura.bindgroup213.default,1
+sakura.bindgroup300.default,1
+
+// 着せ替えを外せないようにする
+sakura.bindoption0.group,ですぷれ,mustselect
+sakura.bindoption1.group,くまさん,mustselect
+sakura.bindoption2.group,模様,mustselect
+
+// メニュー構築を自動にまかせる
+sakura.menu,auto
+
+

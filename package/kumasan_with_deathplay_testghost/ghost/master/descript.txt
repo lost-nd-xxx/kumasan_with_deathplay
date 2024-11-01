@@ -1,0 +1,16 @@
+charset,UTF-8
+type,ghost
+name,くまさん・うぃず・ですぷれ デモゴースト
+
+craftman,lost_nd_xxx
+craftmanw,ろすえん
+craftmanurl,https://lnx.flop.jp/
+
+balloon,ですぷれ・ふぉー・くまさん・らいと
+
+sakura.name,くまさん
+kero.name,とうめい
+
+shiori,satori.dll
+
+

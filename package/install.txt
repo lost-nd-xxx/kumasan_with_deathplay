@@ -1,0 +1,5 @@
+charset,UTF-8
+type,package
+name,「くまさん・うぃず・ですぷれ」一括導入パッケージ
+
+

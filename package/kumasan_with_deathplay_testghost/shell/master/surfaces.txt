@@ -1,0 +1,146 @@
+charset,UTF-8
+
+descript
+{
+version,1
+}
+
+surface0-9
+{
+element0,base,surface000.png,0,0
+
+// 着せ替え不要の場合、以下の定義を追加
+// ＊ですぷれ
+// element1,overlay,surface100.png,0,0
+// ＊くまさん
+// element2,overlay,surface213.png,0,0
+// ＊模様
+// element3,overlay,surface300.png,0,0
+
+// 当たり判定
+collisionex0,Head,region,collision.png,100,0,0
+collisionex1,Ear,region,collision.png,0,200,200
+collisionex2,Eye,region,collision.png,100,100,100
+collisionex3,Nose,region,collision.png,0,0,0
+collisionex4,Mouse,region,collision.png,200,0,0
+collisionex5,Hand,region,collision.png,200,0,200
+collisionex6,Foot,region,collision.png,200,200,0
+collisionex7,Display,region,collision.png,200,200,200
+}
+
+surface.append1
+{
+// 照れ
+element1,overlay,m1.png,439,108
+}
+surface.append2
+{
+// 驚き
+element1,overlay,m2.png,439,108
+}
+surface.append3
+{
+// 不安
+element1,overlay,m3.png,439,108
+}
+surface.append4
+{
+// 落ち込み
+element1,overlay,m4.png,439,108
+}
+surface.append5
+{
+// 笑い
+element1,overlay,m5.png,439,108
+}
+surface.append6
+{
+// 沈黙
+element1,overlay,m6.png,439,108
+}
+surface.append7
+{
+// 怒り
+element1,overlay,m7.png,439,108
+}
+surface.append8
+{
+// 冷や汗
+element1,overlay,m8.png,439,108
+}
+surface.append9
+{
+// 照れ怒り
+element1,overlay,m9.png,439,108
+}
+
+// ---------------- 着せ替え不要の場合、ここから下を削除 ----------------
+
+surface.append0-9
+{
+// ですぷれ
+animation100.interval,bind
+animation100.pattern0,base,100,0,0,0
+animation101.interval,bind
+animation101.pattern0,base,101,0,0,0
+
+// くまさん
+animation200.interval,bind
+animation200.pattern0,overlay,200,0,0,0
+animation201.interval,bind
+animation201.pattern0,overlay,201,0,0,0
+animation202.interval,bind
+animation202.pattern0,overlay,202,0,0,0
+animation203.interval,bind
+animation203.pattern0,overlay,203,0,0,0
+animation204.interval,bind
+animation204.pattern0,overlay,204,0,0,0
+animation205.interval,bind
+animation205.pattern0,overlay,205,0,0,0
+animation206.interval,bind
+animation206.pattern0,overlay,206,0,0,0
+animation207.interval,bind
+animation207.pattern0,overlay,207,0,0,0
+animation208.interval,bind
+animation208.pattern0,overlay,208,0,0,0
+animation209.interval,bind
+animation209.pattern0,overlay,209,0,0,0
+animation210.interval,bind
+animation210.pattern0,overlay,210,0,0,0
+animation211.interval,bind
+animation211.pattern0,overlay,211,0,0,0
+animation212.interval,bind
+animation212.pattern0,overlay,212,0,0,0
+animation213.interval,bind
+animation213.pattern0,overlay,213,0,0,0
+animation214.interval,bind
+animation214.pattern0,overlay,214,0,0,0
+animation215.interval,bind
+animation215.pattern0,overlay,215,0,0,0
+animation216.interval,bind
+animation216.pattern0,overlay,216,0,0,0
+animation217.interval,bind
+animation217.pattern0,overlay,217,0,0,0
+animation218.interval,bind
+animation218.pattern0,overlay,218,0,0,0
+animation219.interval,bind
+animation219.pattern0,overlay,219,0,0,0
+animation220.interval,bind
+animation220.pattern0,overlay,220,0,0,0
+
+// 模様
+animation300.interval,bind
+animation300.pattern0,overlay,300,0,0,0
+animation301.interval,bind
+animation301.pattern0,overlay,301,0,0,0
+animation302.interval,bind
+animation302.pattern0,overlay,302,0,0,0
+animation350.interval,bind
+animation350.pattern0,overlay,350,0,0,0
+animation351.interval,bind
+animation351.pattern0,overlay,351,0,0,0
+animation352.interval,bind
+animation352.pattern0,overlay,352,0,0,0
+}
+
+
